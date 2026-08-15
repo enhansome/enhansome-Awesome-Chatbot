@@ -6,7 +6,7 @@
 
 Best AI Humanizer Free Online Tools
 
-<https://github.com/lynote-ai/humanize-text> ⭐ 1,565 | 🐛 24 | 🌐 Python | 📅 2026-08-05
+<https://github.com/lynote-ai/humanize-text> ⭐ 1,566 | 🐛 20 | 🌐 Python | 📅 2026-08-05
 
 ### ParlAI
 
@@ -48,7 +48,7 @@ A toy chatbot powered by deep learning and trained on data from Reddit
 
 tensorflow seq2seq chatbot
 
-<https://github.com/nicolas-ivanov/tf_seq2seq_chatbot> ⭐ 422 | 🐛 17 | 🌐 Python | 📅 2020-04-14
+<https://github.com/nicolas-ivanov/tf_seq2seq_chatbot> ⭐ 421 | 🐛 17 | 🌐 Python | 📅 2020-04-14
 
 ### ai-chatbot-framework
 
@@ -110,7 +110,7 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 Datasets for Training Chatbot System
 
-<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,054 | 🐛 2 | 🌐 Python | 📅 2020-09-23
+<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,056 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 
 ### OpenSubtitles
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
