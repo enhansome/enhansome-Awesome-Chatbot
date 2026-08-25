@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/lynote-ai/humanize-text",
+              "title": "lynote-ai/humanize-text",
               "description": null,
               "children": [],
               "repo_info": {
@@ -29,7 +29,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/facebookresearch/ParlAI",
+              "title": "facebookresearch/ParlAI",
               "description": null,
               "children": [],
               "repo_info": {
@@ -51,7 +51,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/assignments/chatbot",
+              "title": "chiphuyen/stanford-tensorflow-tutorials",
               "description": null,
               "children": [],
               "repo_info": {
@@ -73,7 +73,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Conchylicultor/DeepQA",
+              "title": "Conchylicultor/DeepQA",
               "description": null,
               "children": [],
               "repo_info": {
@@ -95,7 +95,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/macournoyer/neuralconvo",
+              "title": "macournoyer/neuralconvo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -117,7 +117,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/pender/chatbot-rnn",
+              "title": "pender/chatbot-rnn",
               "description": null,
               "children": [],
               "repo_info": {
@@ -139,7 +139,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/nicolas-ivanov/tf_seq2seq_chatbot",
+              "title": "nicolas-ivanov/tf_seq2seq_chatbot",
               "description": null,
               "children": [],
               "repo_info": {
@@ -161,7 +161,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/alfredfrancis/ai-chatbot-framework",
+              "title": "alfredfrancis/ai-chatbot-framework",
               "description": null,
               "children": [],
               "repo_info": {
@@ -183,7 +183,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/mckinziebrandon/DeepChatModels",
+              "title": "mckinziebrandon/DeepChatModels",
               "description": null,
               "children": [],
               "repo_info": {
@@ -205,7 +205,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/inikdom/neural-chatbot",
+              "title": "domerin0/neural-chatbot",
               "description": null,
               "children": [],
               "repo_info": {
@@ -233,7 +233,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/qhduan/Seq2Seq_Chatbot_QA",
+              "title": "qhduan/Seq2Seq_Chatbot_QA",
               "description": null,
               "children": [],
               "repo_info": {
@@ -255,7 +255,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/zake7749/Chatbot",
+              "title": "zake7749/Chatbot",
               "description": null,
               "children": [],
               "repo_info": {
@@ -277,7 +277,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/majoressense/chatbot-zh-torch7",
+              "title": "aceimnorstuvwxz/chatbot-zh-torch7",
               "description": null,
               "children": [],
               "repo_info": {
@@ -305,7 +305,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/candlewill/Dialog_Corpus",
+              "title": "candlewill/Dialog_Corpus",
               "description": null,
               "children": [],
               "repo_info": {
@@ -327,7 +327,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/AlJohri/OpenSubtitles",
+              "title": "AlJohri/OpenSubtitles",
               "description": null,
               "children": [],
               "repo_info": {
@@ -349,7 +349,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Samurais/insuranceqa-corpus-zh",
+              "title": "chatopera/insuranceqa-corpus-zh",
               "description": null,
               "children": [],
               "repo_info": {
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:43.210Z",
+    "last_updated": "2026-08-25T05:59:24.322Z",
     "original_repository": "fendouai/Awesome-Chatbot",
     "original_repository_id": 102067496,
     "original_repository_sha": "2839e4a05d604e7eac361a5c88b831ec52a66d1e",
