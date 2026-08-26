@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-30T21:27:52Z",
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10622
+                "stars": 10621
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2020-12-22T09:21:55Z",
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10370
+                "stars": 10371
               }
             }
           ],
@@ -168,10 +168,10 @@
                 "archived": false,
                 "id": 76678740,
                 "language": "TypeScript",
-                "last_commit": "2025-05-21T12:43:21Z",
+                "last_commit": "2026-08-26T12:14:50Z",
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2166
+                "stars": 2167
               }
             }
           ],
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:58:07.474Z",
+    "last_updated": "2026-08-26T14:00:01.902Z",
     "original_repository": "fendouai/Awesome-Chatbot",
     "original_repository_id": 102067496,
     "original_repository_sha": "2839e4a05d604e7eac361a5c88b831ec52a66d1e",
