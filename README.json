@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-05T08:56:35Z",
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 1575
+                "stars": 1576
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2020-12-22T09:21:55Z",
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10371
+                "stars": 10370
               }
             }
           ],
@@ -171,7 +171,7 @@
                 "last_commit": "2026-08-26T12:14:50Z",
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2168
+                "stars": 2169
               }
             }
           ],
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:37.441Z",
+    "last_updated": "2026-08-27T22:55:28.686Z",
     "original_repository_info": {
       "archived": false,
       "id": 102067496,
@@ -380,7 +380,7 @@
       "last_commit": "2026-07-28T08:44:09Z",
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2185
+      "stars": 2186
     },
     "original_repository_sha": "2839e4a05d604e7eac361a5c88b831ec52a66d1e",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chatbot",
