@@ -6,7 +6,7 @@
 
 Best AI Humanizer Free Online Tools
 
-<https://github.com/lynote-ai/humanize-text> ⭐ 1,576 | 🐛 19 | 🌐 Python | 📅 2026-08-05
+<https://github.com/lynote-ai/humanize-text> ⭐ 1,578 | 🐛 19 | 🌐 Python | 📅 2026-08-05
 
 ### ParlAI
 
@@ -122,7 +122,7 @@ A series of scripts to download and parse the OpenSubtitles corpus.
 
 OpenData in insurance area for Machine Learning Tasks
 
-<https://github.com/Samurais/insuranceqa-corpus-zh> ⭐ 1,064 | 🐛 10 | 🌐 Python | 📅 2025-05-26
+<https://github.com/Samurais/insuranceqa-corpus-zh> ⭐ 1,065 | 🐛 10 | 🌐 Python | 📅 2025-05-26
 
 ### dgk\_lost\_conv
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

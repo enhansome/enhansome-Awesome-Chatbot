@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-05T08:56:35Z",
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 1576
-              }
+                "stars": 1578
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "Best AI Humanizer Free Online Tools",
@@ -40,7 +41,8 @@
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
                 "stars": 10621
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "A framework for training and evaluating AI models on a variety of openly available dialog datasets.",
@@ -62,7 +64,8 @@
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
                 "stars": 10370
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "A neural chatbot using sequence to sequence model with attentional decoder.",
@@ -84,7 +87,8 @@
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
                 "stars": 2910
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "My tensorflow implementation of \"A neural conversational model\", a Deep learning based chatbot",
@@ -106,7 +110,8 @@
                 "owner": "macournoyer",
                 "repo": "neuralconvo",
                 "stars": 775
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "Neural conversational model in Torch",
@@ -128,7 +133,8 @@
                 "owner": "pender",
                 "repo": "chatbot-rnn",
                 "stars": 907
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "A toy chatbot powered by deep learning and trained on data from Reddit",
@@ -150,7 +156,8 @@
                 "owner": "nicolas-ivanov",
                 "repo": "tf_seq2seq_chatbot",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "tensorflow seq2seq chatbot",
@@ -172,7 +179,8 @@
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
                 "stars": 2169
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
@@ -194,7 +202,8 @@
                 "owner": "mckinziebrandon",
                 "repo": "DeepChatModels",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "Conversation Models in Tensorflow",
@@ -216,7 +225,8 @@
                 "owner": "domerin0",
                 "repo": "neural-chatbot",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "A chatbot based on seq2seq architecture done with tensorflow.",
@@ -244,7 +254,8 @@
                 "owner": "qhduan",
                 "repo": "Seq2Seq_Chatbot_QA",
                 "stars": 787
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "使用TensorFlow实现的Sequence to Sequence的聊天机器人模型",
@@ -266,7 +277,8 @@
                 "owner": "zake7749",
                 "repo": "Chatbot",
                 "stars": 907
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "基於向量匹配的情境式聊天機器人",
@@ -288,7 +300,8 @@
                 "owner": "aceimnorstuvwxz",
                 "repo": "chatbot-zh-torch7",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "中文Neural conversational model in Torch",
@@ -316,7 +329,8 @@
                 "owner": "candlewill",
                 "repo": "Dialog_Corpus",
                 "stars": 2056
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "Datasets for Training Chatbot System",
@@ -338,7 +352,8 @@
                 "owner": "AlJohri",
                 "repo": "OpenSubtitles",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "A series of scripts to download and parse the OpenSubtitles corpus.",
@@ -359,8 +374,9 @@
                 "last_commit": "2025-05-26T06:56:24Z",
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1064
-              }
+                "stars": 1065
+              },
+              "first_seen": "2026-08-28T22:59:48.980Z"
             }
           ],
           "description": "OpenData in insurance area for Machine Learning Tasks",
@@ -372,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:55:28.686Z",
+    "last_updated": "2026-08-28T22:59:48.980Z",
     "original_repository_info": {
       "archived": false,
       "id": 102067496,
