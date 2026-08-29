@@ -110,7 +110,7 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 Datasets for Training Chatbot System
 
-<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,056 | 🐛 2 | 🌐 Python | 📅 2020-09-23
+<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,055 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 
 ### OpenSubtitles
 

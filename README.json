@@ -461,7 +461,7 @@
                 "open_issues": 2,
                 "owner": "candlewill",
                 "repo": "Dialog_Corpus",
-                "stars": 2056,
+                "stars": 2055,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:50.638Z",
+    "last_updated": "2026-08-29T17:05:14.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
@@ -561,7 +561,7 @@
       "open_issues": 12,
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2186,
+      "stars": 2187,
       "topics": [
         "awesome",
         "chatbot",
