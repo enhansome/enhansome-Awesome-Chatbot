@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source pipeline and reference implementations for improving the readability and natural cadence of AI-assisted drafts.",
+                "homepage": "https://lynote.ai/ai-humanizer",
                 "id": 1242316635,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-05T08:56:35Z",
+                "open_issues": 19,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 1578
+                "stars": 1578,
+                "topics": [
+                  "ai-humanizer",
+                  "ai-tools",
+                  "ai-writing",
+                  "humanize-ai-text",
+                  "humanize-text",
+                  "open-source",
+                  "paraphrasing",
+                  "python",
+                  "responsible-ai",
+                  "text-humanizer",
+                  "text-processing",
+                  "text-rewriting",
+                  "writing-assistant"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -35,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+                "homepage": "https://parl.ai",
                 "id": 89266735,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T21:27:52Z",
+                "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10621
+                "stars": 10621,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -58,12 +82,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. ",
+                "homepage": "http://cs20.stanford.edu",
                 "id": 72945141,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-22T09:21:55Z",
+                "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10370
+                "stars": 10370,
+                "topics": [
+                  "chatbot",
+                  "course-materials",
+                  "deep-learning",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "python",
+                  "stanford",
+                  "tensorflow",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -81,12 +121,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My tensorflow implementation of \"A neural conversational model\", a Deep learning based chatbot",
+                "homepage": null,
                 "id": 62824998,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-30T14:42:37Z",
+                "open_issues": 93,
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
-                "stars": 2910
+                "stars": 2910,
+                "topics": [
+                  "chatbot",
+                  "deep-learning",
+                  "seq2seq",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -104,12 +154,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural conversational model in Torch",
+                "homepage": null,
                 "id": 44709583,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2021-05-06T12:45:32Z",
+                "open_issues": 26,
                 "owner": "macournoyer",
                 "repo": "neuralconvo",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-conversation-models",
+                  "seq2seq",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -127,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toy chatbot powered by deep learning and trained on data from Reddit",
+                "homepage": null,
                 "id": 77967300,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-25T23:11:53Z",
+                "open_issues": 20,
                 "owner": "pender",
                 "repo": "chatbot-rnn",
-                "stars": 907
+                "stars": 907,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -150,12 +216,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[unmaintained]",
+                "homepage": null,
                 "id": 47565874,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-04-14T15:18:49Z",
+                "open_issues": 17,
                 "owner": "nicolas-ivanov",
                 "repo": "tf_seq2seq_chatbot",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "chatbot",
+                  "seq2seq",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -173,12 +248,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+                "homepage": null,
                 "id": 76678740,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:14:50Z",
+                "open_issues": 11,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2169
+                "stars": 2169,
+                "topics": [
+                  "ai-chatbot",
+                  "ai-chatbot-framework",
+                  "chatbot",
+                  "conversational-ai",
+                  "deepseek",
+                  "hacktoberfest",
+                  "help-wanted",
+                  "langchain",
+                  "llm",
+                  "nextjs",
+                  "openai",
+                  "python",
+                  "tool-calling"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -196,12 +290,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conversation models in TensorFlow. (website removed)",
+                "homepage": null,
                 "id": 81988822,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-02T11:50:09Z",
+                "open_issues": 5,
                 "owner": "mckinziebrandon",
                 "repo": "DeepChatModels",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "appengine-python",
+                  "chatbot",
+                  "conversation-models",
+                  "encoder-decoder",
+                  "flask",
+                  "googlecloud",
+                  "sequence-to-sequence",
+                  "tensorboard",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -219,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A chatbot based on seq2seq architecture done with tensorflow.",
+                "homepage": null,
                 "id": 56938153,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-03T19:13:32Z",
+                "open_issues": 9,
                 "owner": "domerin0",
                 "repo": "neural-chatbot",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -248,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "使用TensorFlow实现的Sequence to Sequence的聊天机器人模型",
+                "homepage": null,
                 "id": 70499386,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-21T03:06:02Z",
+                "open_issues": 21,
                 "owner": "qhduan",
                 "repo": "Seq2Seq_Chatbot_QA",
-                "stars": 787
+                "stars": 787,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -271,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基於向量匹配的情境式聊天機器人",
+                "homepage": null,
                 "id": 65004289,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-18T13:26:37Z",
+                "open_issues": 1,
                 "owner": "zake7749",
                 "repo": "Chatbot",
-                "stars": 907
+                "stars": 907,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -294,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文Neural conversational model in Torch ",
+                "homepage": null,
                 "id": 61612257,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2021-05-06T12:45:26Z",
+                "open_issues": 2,
                 "owner": "aceimnorstuvwxz",
                 "repo": "chatbot-zh-torch7",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -323,12 +452,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "用于训练中英文对话系统的语料库 Datasets for Training Chatbot System",
+                "homepage": null,
                 "id": 84949566,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-23T21:06:45Z",
+                "open_issues": 2,
                 "owner": "candlewill",
                 "repo": "Dialog_Corpus",
-                "stars": 2056
+                "stars": 2056,
+                "topics": [
+                  "chatbot",
+                  "corpus",
+                  "dataset",
+                  "dialog",
+                  "system"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -346,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A series of scripts to download and parse the OpenSubtitles corpus.",
+                "homepage": null,
                 "id": 25550634,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-11T13:52:34Z",
+                "open_issues": 1,
                 "owner": "AlJohri",
                 "repo": "OpenSubtitles",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -369,12 +514,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":helicopter: 保险行业语料库，聊天机器人",
+                "homepage": "https://www.chatopera.com/",
                 "id": 98441914,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-26T06:56:24Z",
+                "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1065
+                "stars": 1065,
+                "topics": [
+                  "chatbot",
+                  "corpus",
+                  "dataset",
+                  "insurance",
+                  "insuranceqa-corpus-zh",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "qasystem",
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
             }
@@ -388,15 +549,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:59:48.980Z",
+    "last_updated": "2026-08-29T04:23:50.638Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
+      "homepage": "http://www.panchuangai.com/",
       "id": 102067496,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-07-28T08:44:09Z",
+      "open_issues": 12,
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2186
+      "stars": 2186,
+      "topics": [
+        "awesome",
+        "chatbot",
+        "corpus",
+        "seq2seq",
+        "seq2seq-chatbot",
+        "seq2seq-model",
+        "tensorflow",
+        "tutorial"
+      ]
     },
     "original_repository_sha": "2839e4a05d604e7eac361a5c88b831ec52a66d1e",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chatbot",
