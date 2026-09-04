@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 1596,
+                "stars": 1601,
                 "topics": [
                   "ai-humanizer",
                   "ai-tools",
@@ -163,7 +163,7 @@
                 "open_issues": 26,
                 "owner": "macournoyer",
                 "repo": "neuralconvo",
-                "stars": 775,
+                "stars": 773,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -225,7 +225,7 @@
                 "open_issues": 17,
                 "owner": "nicolas-ivanov",
                 "repo": "tf_seq2seq_chatbot",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "chatbot",
                   "seq2seq",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:00:51.486Z",
+    "last_updated": "2026-09-04T16:49:31.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
