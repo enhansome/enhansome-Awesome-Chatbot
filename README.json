@@ -12,23 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source pipeline and reference implementations for improving the readability and natural cadence of AI-assisted drafts.",
+                "description": "Open-source text humanization pipeline with every intermediate step published. Two LLM rewrites at temp 1.3, then two hops across different NMT engines. Four documented methodologies you can read, modify, and run locally.",
                 "homepage": "https://lynote.ai/ai-humanizer",
                 "id": 1242316635,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T08:20:57Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-14T09:13:47Z",
+                "open_issues": 16,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 1613,
+                "stars": 1617,
                 "topics": [
                   "ai-humanizer",
                   "ai-tools",
                   "ai-writing",
                   "humanize-ai-text",
                   "humanize-text",
-                  "open-source",
+                  "n8n",
                   "paraphrasing",
                   "python",
                   "responsible-ai",
@@ -91,7 +91,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10370,
+                "stars": 10371,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:56:28.153Z",
+    "last_updated": "2026-09-14T18:32:44.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
@@ -561,7 +561,7 @@
       "open_issues": 12,
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2187,
+      "stars": 2188,
       "topics": [
         "awesome",
         "chatbot",
