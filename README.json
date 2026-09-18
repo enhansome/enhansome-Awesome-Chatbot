@@ -17,7 +17,7 @@
                 "id": 1242316635,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T03:40:19Z",
+                "last_commit": "2026-09-18T08:07:34Z",
                 "open_issues": 28,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
@@ -63,7 +63,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10618,
+                "stars": 10617,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:35:51.365Z",
+    "last_updated": "2026-09-18T17:02:37.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
