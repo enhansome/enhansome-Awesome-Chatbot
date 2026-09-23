@@ -17,11 +17,11 @@
                 "id": 1242316635,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T08:07:34Z",
+                "last_commit": "2026-09-23T11:30:41Z",
                 "open_issues": 28,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3049,
+                "stars": 3056,
                 "topics": [
                   "ai-humanizer",
                   "ai-tools",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:36:38.561Z",
+    "last_updated": "2026-09-23T17:49:24.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
