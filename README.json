@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 2978,
+                "stars": 2982,
                 "topics": [
                   "ai-humanizer",
                   "ai-tools",
@@ -63,7 +63,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10617,
+                "stars": 10618,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -130,7 +130,7 @@
                 "open_issues": 93,
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
-                "stars": 2909,
+                "stars": 2908,
                 "topics": [
                   "chatbot",
                   "deep-learning",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:05:05.588Z",
+    "last_updated": "2026-09-27T17:40:51.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
