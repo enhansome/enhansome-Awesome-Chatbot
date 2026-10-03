@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "lynote-ai/humanize-text",
-              "description": null,
+              "description": "lynote-ai/humanize-text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3186,
+                "stars": 3187,
                 "topics": [
                   "ai-humanizer",
                   "ai-tools",
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/ParlAI",
-              "description": null,
+              "description": "facebookresearch/ParlAI",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "chiphuyen/stanford-tensorflow-tutorials",
-              "description": null,
+              "description": "chiphuyen/stanford-tensorflow-tutorials",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "Conchylicultor/DeepQA",
-              "description": null,
+              "description": "Conchylicultor/DeepQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -150,7 +150,7 @@
             {
               "node_type": "item",
               "title": "macournoyer/neuralconvo",
-              "description": null,
+              "description": "macournoyer/neuralconvo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -184,7 +184,7 @@
             {
               "node_type": "item",
               "title": "pender/chatbot-rnn",
-              "description": null,
+              "description": "pender/chatbot-rnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -212,7 +212,7 @@
             {
               "node_type": "item",
               "title": "nicolas-ivanov/tf_seq2seq_chatbot",
-              "description": null,
+              "description": "nicolas-ivanov/tf_seq2seq_chatbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -244,7 +244,7 @@
             {
               "node_type": "item",
               "title": "alfredfrancis/ai-chatbot-framework",
-              "description": null,
+              "description": "alfredfrancis/ai-chatbot-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "mckinziebrandon/DeepChatModels",
-              "description": null,
+              "description": "mckinziebrandon/DeepChatModels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -324,7 +324,7 @@
             {
               "node_type": "item",
               "title": "domerin0/neural-chatbot",
-              "description": null,
+              "description": "domerin0/neural-chatbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -358,7 +358,7 @@
             {
               "node_type": "item",
               "title": "qhduan/Seq2Seq_Chatbot_QA",
-              "description": null,
+              "description": "qhduan/Seq2Seq_Chatbot_QA",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "zake7749/Chatbot",
-              "description": null,
+              "description": "zake7749/Chatbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,7 +414,7 @@
             {
               "node_type": "item",
               "title": "aceimnorstuvwxz/chatbot-zh-torch7",
-              "description": null,
+              "description": "aceimnorstuvwxz/chatbot-zh-torch7",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -448,7 +448,7 @@
             {
               "node_type": "item",
               "title": "candlewill/Dialog_Corpus",
-              "description": null,
+              "description": "candlewill/Dialog_Corpus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,7 +482,7 @@
             {
               "node_type": "item",
               "title": "AlJohri/OpenSubtitles",
-              "description": null,
+              "description": "AlJohri/OpenSubtitles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -510,7 +510,7 @@
             {
               "node_type": "item",
               "title": "chatopera/insuranceqa-corpus-zh",
-              "description": null,
+              "description": "chatopera/insuranceqa-corpus-zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:21:01.616Z",
+    "last_updated": "2026-10-03T04:24:34.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
@@ -561,7 +561,7 @@
       "open_issues": 12,
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2190,
+      "stars": 2191,
       "topics": [
         "awesome",
         "chatbot",
