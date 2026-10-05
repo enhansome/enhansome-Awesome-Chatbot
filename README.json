@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3197,
+                "stars": 3203,
                 "topics": [
                   "ai-humanizer",
                   "ai-tools",
@@ -91,7 +91,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10374,
+                "stars": 10373,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -130,7 +130,7 @@
                 "open_issues": 93,
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
-                "stars": 2908,
+                "stars": 2907,
                 "topics": [
                   "chatbot",
                   "deep-learning",
@@ -299,7 +299,7 @@
                 "open_issues": 5,
                 "owner": "mckinziebrandon",
                 "repo": "DeepChatModels",
-                "stars": 313,
+                "stars": 312,
                 "topics": [
                   "appengine-python",
                   "chatbot",
@@ -399,7 +399,7 @@
                 "open_issues": 1,
                 "owner": "zake7749",
                 "repo": "Chatbot",
-                "stars": 907,
+                "stars": 906,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -523,7 +523,7 @@
                 "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1068,
+                "stars": 1067,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:26:52.772Z",
+    "last_updated": "2026-10-05T21:14:09.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
