@@ -92,7 +92,7 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 基於向量匹配的情境式聊天機器人
 
-<https://github.com/zake7749/Chatbot> ⭐ 907 | 🐛 1 | 🌐 Python | 📅 2024-10-18
+<https://github.com/zake7749/Chatbot> ⭐ 906 | 🐛 1 | 🌐 Python | 📅 2024-10-18
 
 ### chatbot-zh-torch7
 
