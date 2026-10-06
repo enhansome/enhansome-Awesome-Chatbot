@@ -6,7 +6,7 @@
 
 Best AI Humanizer Free Online Tools
 
-<https://github.com/lynote-ai/humanize-text> ⭐ 3,203 | 🐛 29 | 🌐 Python | 📅 2026-09-28
+<https://github.com/lynote-ai/humanize-text> ⭐ 3,204 | 🐛 29 | 🌐 Python | 📅 2026-09-28
 
 ### ParlAI
 
@@ -60,7 +60,7 @@ A python chatbot framework with Natural Language Understanding and Artificial In
 
 Conversation Models in Tensorflow
 
-<https://github.com/mckinziebrandon/DeepChatModels> ⭐ 312 | 🐛 5 | 🌐 Python | 📅 2020-10-02
+<https://github.com/mckinziebrandon/DeepChatModels> ⭐ 313 | 🐛 5 | 🌐 Python | 📅 2020-10-02
 
 ### Chatbot
 
@@ -92,7 +92,7 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 基於向量匹配的情境式聊天機器人
 
-<https://github.com/zake7749/Chatbot> ⭐ 906 | 🐛 1 | 🌐 Python | 📅 2024-10-18
+<https://github.com/zake7749/Chatbot> ⭐ 907 | 🐛 1 | 🌐 Python | 📅 2024-10-18
 
 ### chatbot-zh-torch7
 
@@ -122,7 +122,7 @@ A series of scripts to download and parse the OpenSubtitles corpus.
 
 OpenData in insurance area for Machine Learning Tasks
 
-<https://github.com/Samurais/insuranceqa-corpus-zh> ⭐ 1,067 | 🐛 10 | 🌐 Python | 📅 2025-05-26
+<https://github.com/Samurais/insuranceqa-corpus-zh> ⭐ 1,068 | 🐛 10 | 🌐 Python | 📅 2025-05-26
 
 ### dgk\_lost\_conv
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
