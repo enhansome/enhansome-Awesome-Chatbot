@@ -6,7 +6,7 @@
 
 Best AI Humanizer Free Online Tools
 
-<https://github.com/lynote-ai/humanize-text> ⭐ 3,204 | 🐛 29 | 🌐 Python | 📅 2026-09-28
+<https://github.com/lynote-ai/humanize-text> ⭐ 3,209 | 🐛 29 | 🌐 Python | 📅 2026-09-28
 
 ### ParlAI
 
@@ -110,7 +110,7 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 Datasets for Training Chatbot System
 
-<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,055 | 🐛 2 | 🌐 Python | 📅 2020-09-23
+<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,056 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 
 ### OpenSubtitles
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
