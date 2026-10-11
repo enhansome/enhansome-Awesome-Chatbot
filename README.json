@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3286,
+                "stars": 3328,
                 "topics": [
                   "ai-humanizer",
                   "ai-rewriter",
@@ -132,7 +132,7 @@
                 "open_issues": 93,
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
-                "stars": 2907,
+                "stars": 2906,
                 "topics": [
                   "chatbot",
                   "deep-learning",
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:47:27.339Z",
+    "last_updated": "2026-10-11T18:00:18.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
