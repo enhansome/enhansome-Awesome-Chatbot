@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-08T03:59:17Z",
-                "open_issues": 29,
+                "open_issues": 31,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3328,
+                "stars": 3369,
                 "topics": [
                   "ai-humanizer",
                   "ai-rewriter",
@@ -165,7 +165,7 @@
                 "open_issues": 26,
                 "owner": "macournoyer",
                 "repo": "neuralconvo",
-                "stars": 773,
+                "stars": 774,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -256,7 +256,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-26T12:14:50Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
                 "stars": 2170,
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:00:18.087Z",
+    "last_updated": "2026-10-12T21:41:59.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
