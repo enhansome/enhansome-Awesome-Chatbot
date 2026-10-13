@@ -12,32 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source AI humanizer that rewrites AI-generated text into natural, human-sounding writing. Structure-first SFT + KTO training-data pipeline plus a runnable translation-chain humanizer (DeepSeek, OpenRouter, n8n). Transparent, auditable, MIT.",
+                "description": "Open-source pipeline for rewriting AI-generated text into natural human prose. Need it in your app? Try the Lynote Humanizer API → lynote.ai/ai-humanizer-api",
                 "homepage": "https://lynote.ai/ai-humanizer",
                 "id": 1242316635,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T03:59:17Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-13T11:21:19Z",
+                "open_issues": 36,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3369,
+                "stars": 3407,
                 "topics": [
                   "ai-humanizer",
+                  "ai-humanizer-api",
                   "ai-rewriter",
+                  "ai-text-humanizer",
                   "ai-tools",
                   "ai-writing",
                   "ai-writing-assistant",
+                  "api",
+                  "bypass-ai-detection",
                   "humanize-ai-text",
                   "humanize-text",
+                  "humanizer-api",
                   "llm",
                   "n8n",
                   "nlp",
                   "paraphrasing",
-                  "responsible-ai",
                   "text-humanizer",
                   "text-processing",
-                  "text-rewriting"
+                  "text-rewriting",
+                  "undetectable-ai-alternative"
                 ]
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -65,7 +70,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10617,
+                "stars": 10618,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -93,7 +98,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10373,
+                "stars": 10374,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -463,7 +468,7 @@
                 "open_issues": 2,
                 "owner": "candlewill",
                 "repo": "Dialog_Corpus",
-                "stars": 2056,
+                "stars": 2055,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -551,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:41:59.379Z",
+    "last_updated": "2026-10-13T19:49:57.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
@@ -563,7 +568,7 @@
       "open_issues": 11,
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2194,
+      "stars": 2195,
       "topics": [
         "awesome",
         "chatbot",
