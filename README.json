@@ -21,7 +21,7 @@
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3444,
+                "stars": 3448,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -204,7 +204,7 @@
                 "open_issues": 20,
                 "owner": "pender",
                 "repo": "chatbot-rnn",
-                "stars": 907,
+                "stars": 906,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:19:12.246Z",
+    "last_updated": "2026-10-18T16:27:57.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
