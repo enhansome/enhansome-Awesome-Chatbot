@@ -42,7 +42,7 @@ Neural conversational model in Torch
 
 A toy chatbot powered by deep learning and trained on data from Reddit
 
-<https://github.com/pender/chatbot-rnn> ⭐ 906 | 🐛 20 | 🌐 Python | 📅 2021-06-25
+<https://github.com/pender/chatbot-rnn> ⭐ 907 | 🐛 20 | 🌐 Python | 📅 2021-06-25
 
 ### tf\_seq2seq\_chatbot
 
@@ -110,7 +110,7 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 Datasets for Training Chatbot System
 
-<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,057 | 🐛 2 | 🌐 Python | 📅 2020-09-23
+<https://github.com/candlewill/Dialog_Corpus> ⭐ 2,058 | 🐛 2 | 🌐 Python | 📅 2020-09-23
 
 ### OpenSubtitles
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
