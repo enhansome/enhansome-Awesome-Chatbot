@@ -21,7 +21,7 @@
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3448,
+                "stars": 3451,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -98,7 +98,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10374,
+                "stars": 10373,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -261,7 +261,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-26T12:14:50Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
                 "stars": 2170,
@@ -378,7 +378,7 @@
                 "open_issues": 21,
                 "owner": "qhduan",
                 "repo": "Seq2Seq_Chatbot_QA",
-                "stars": 787,
+                "stars": 786,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -468,7 +468,7 @@
                 "open_issues": 2,
                 "owner": "candlewill",
                 "repo": "Dialog_Corpus",
-                "stars": 2058,
+                "stars": 2057,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -530,7 +530,7 @@
                 "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1069,
+                "stars": 1068,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:15:04.720Z",
+    "last_updated": "2026-10-20T17:55:35.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
