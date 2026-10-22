@@ -12,16 +12,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source pipeline for rewriting AI-generated text into natural human prose. Need it in your app? Try the Lynote Humanizer API → lynote.ai/ai-humanizer-api",
+                "description": "Open-source AI humanizer: rewrite AI-generated text into natural, human-sounding prose. LLM rewriting + multi-engine translation, with step-by-step traces. Python CLI, n8n & Docker.",
                 "homepage": "https://lynote.ai/ai-humanizer",
                 "id": 1242316635,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T11:21:19Z",
+                "last_commit": "2026-10-22T09:08:26Z",
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3455,
+                "stars": 3445,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -30,8 +30,7 @@
                   "ai-tools",
                   "ai-writing",
                   "ai-writing-assistant",
-                  "api",
-                  "bypass-ai-detection",
+                  "deepseek",
                   "humanize-ai-text",
                   "humanize-text",
                   "humanizer-api",
@@ -39,6 +38,7 @@
                   "n8n",
                   "nlp",
                   "paraphrasing",
+                  "python",
                   "text-humanizer",
                   "text-processing",
                   "text-rewriting",
@@ -170,7 +170,7 @@
                 "open_issues": 26,
                 "owner": "macournoyer",
                 "repo": "neuralconvo",
-                "stars": 774,
+                "stars": 773,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -204,7 +204,7 @@
                 "open_issues": 20,
                 "owner": "pender",
                 "repo": "chatbot-rnn",
-                "stars": 907,
+                "stars": 906,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -264,7 +264,7 @@
                 "open_issues": 13,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2170,
+                "stars": 2169,
                 "topics": [
                   "ai-chatbot",
                   "ai-chatbot-framework",
@@ -530,7 +530,7 @@
                 "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:58:59.522Z",
+    "last_updated": "2026-10-22T17:56:20.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
