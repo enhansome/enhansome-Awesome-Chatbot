@@ -21,7 +21,7 @@
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3445,
+                "stars": 3452,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -70,7 +70,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10617,
+                "stars": 10616,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -530,7 +530,7 @@
                 "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:56:20.279Z",
+    "last_updated": "2026-10-23T17:50:16.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
