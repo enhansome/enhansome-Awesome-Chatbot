@@ -54,7 +54,7 @@ tensorflow seq2seq chatbot
 
 A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 
-<https://github.com/alfredfrancis/ai-chatbot-framework> ⭐ 2,165 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-26
+<https://github.com/alfredfrancis/ai-chatbot-framework> ⭐ 2,165 | 🐛 0 | 🌐 Python | 📅 2026-11-07
 
 ### DeepChatModels
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

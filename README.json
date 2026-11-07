@@ -258,10 +258,10 @@
                 "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
                 "homepage": null,
                 "id": 76678740,
-                "language": "TypeScript",
+                "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T12:14:50Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-07T17:17:59Z",
+                "open_issues": 0,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
                 "stars": 2165,
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:55:23.450Z",
+    "last_updated": "2026-11-07T17:59:34.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
