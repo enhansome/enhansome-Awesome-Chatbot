@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3497,
+                "stars": 3500,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -70,7 +70,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10615,
+                "stars": 10614,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -98,7 +98,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10373,
+                "stars": 10372,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -137,7 +137,7 @@
                 "open_issues": 93,
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
-                "stars": 2907,
+                "stars": 2906,
                 "topics": [
                   "chatbot",
                   "deep-learning",
@@ -260,11 +260,11 @@
                 "id": 76678740,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T20:15:48Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-11T19:32:36Z",
+                "open_issues": 1,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2166,
+                "stars": 2167,
                 "topics": [
                   "ai-chatbot",
                   "ai-chatbot-framework",
@@ -407,7 +407,7 @@
                 "open_issues": 1,
                 "owner": "zake7749",
                 "repo": "Chatbot",
-                "stars": 906,
+                "stars": 905,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:25:34.752Z",
+    "last_updated": "2026-11-11T20:08:19.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
