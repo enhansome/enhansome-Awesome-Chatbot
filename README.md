@@ -6,7 +6,7 @@
 
 Best AI Humanizer Free Online Tools
 
-<https://github.com/lynote-ai/humanize-text> ⭐ 3,500 | 🐛 39 | 🌐 Python | 📅 2026-10-22
+<https://github.com/lynote-ai/humanize-text> ⭐ 3,506 | 🐛 39 | 🌐 Python | 📅 2026-10-22
 
 ### ParlAI
 
@@ -42,7 +42,7 @@ Neural conversational model in Torch
 
 A toy chatbot powered by deep learning and trained on data from Reddit
 
-<https://github.com/pender/chatbot-rnn> ⭐ 906 | 🐛 20 | 🌐 Python | 📅 2021-06-25
+<https://github.com/pender/chatbot-rnn> ⭐ 905 | 🐛 20 | 🌐 Python | 📅 2021-06-25
 
 ### tf\_seq2seq\_chatbot
 
@@ -54,7 +54,7 @@ tensorflow seq2seq chatbot
 
 A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 
-<https://github.com/alfredfrancis/ai-chatbot-framework> ⭐ 2,167 | 🐛 1 | 🌐 Python | 📅 2026-11-11
+<https://github.com/alfredfrancis/ai-chatbot-framework> ⭐ 2,168 | 🐛 1 | 🌐 Python | 📅 2026-11-12
 
 ### DeepChatModels
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
