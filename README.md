@@ -54,7 +54,7 @@ tensorflow seq2seq chatbot
 
 A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 
-<https://github.com/alfredfrancis/ai-chatbot-framework> ⭐ 2,183 | 🐛 2 | 🌐 Python | 📅 2026-11-15
+<https://github.com/alfredfrancis/ai-chatbot-framework> ⭐ 2,184 | 🐛 1 | 🌐 Python | 📅 2026-11-16
 
 ### DeepChatModels
 
@@ -122,7 +122,7 @@ A series of scripts to download and parse the OpenSubtitles corpus.
 
 OpenData in insurance area for Machine Learning Tasks
 
-<https://github.com/Samurais/insuranceqa-corpus-zh> ⭐ 1,070 | 🐛 10 | 🌐 Python | 📅 2025-05-26
+<https://github.com/Samurais/insuranceqa-corpus-zh> ⭐ 1,071 | 🐛 10 | 🌐 Python | 📅 2025-05-26
 
 ### dgk\_lost\_conv
 
@@ -160,4 +160,4 @@ dgk\_lost\_conv 中文对白语料 chinese conversation corpus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
