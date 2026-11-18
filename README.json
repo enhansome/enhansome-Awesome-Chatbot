@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3516,
+                "stars": 3520,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -70,7 +70,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10615,
+                "stars": 10616,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -98,7 +98,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10372,
+                "stars": 10374,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -260,11 +260,11 @@
                 "id": 76678740,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T08:24:16Z",
+                "last_commit": "2026-11-18T10:11:33Z",
                 "open_issues": 2,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2186,
+                "stars": 2188,
                 "topics": [
                   "ai-chatbot",
                   "ai-chatbot-framework",
@@ -531,7 +531,7 @@
                 "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:41:47.671Z",
+    "last_updated": "2026-11-18T21:20:46.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
@@ -569,7 +569,7 @@
       "open_issues": 13,
       "owner": "fendouai",
       "repo": "Awesome-Chatbot",
-      "stars": 2197,
+      "stars": 2196,
       "topics": [
         "awesome",
         "chatbot",
