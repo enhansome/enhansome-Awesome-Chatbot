@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3520,
+                "stars": 3516,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -70,7 +70,7 @@
                 "open_issues": 53,
                 "owner": "facebookresearch",
                 "repo": "ParlAI",
-                "stars": 10616,
+                "stars": 10615,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:48.980Z"
@@ -98,7 +98,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10374,
+                "stars": 10373,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -137,7 +137,7 @@
                 "open_issues": 93,
                 "owner": "Conchylicultor",
                 "repo": "DeepQA",
-                "stars": 2905,
+                "stars": 2904,
                 "topics": [
                   "chatbot",
                   "deep-learning",
@@ -264,7 +264,7 @@
                 "open_issues": 2,
                 "owner": "alfredfrancis",
                 "repo": "ai-chatbot-framework",
-                "stars": 2188,
+                "stars": 2187,
                 "topics": [
                   "ai-chatbot",
                   "ai-chatbot-framework",
@@ -531,7 +531,7 @@
                 "open_issues": 10,
                 "owner": "chatopera",
                 "repo": "insuranceqa-corpus-zh",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": [
                   "chatbot",
                   "corpus",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:20:46.296Z",
+    "last_updated": "2026-11-19T21:24:01.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
