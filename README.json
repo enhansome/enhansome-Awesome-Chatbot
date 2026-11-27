@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3453,
+                "stars": 3455,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -98,7 +98,7 @@
                 "open_issues": 85,
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10372,
+                "stars": 10371,
                 "topics": [
                   "chatbot",
                   "course-materials",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:14:30.351Z",
+    "last_updated": "2026-11-27T21:54:34.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
